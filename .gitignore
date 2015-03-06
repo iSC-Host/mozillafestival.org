@@ -1,2 +1,3 @@
-/wp-content/uploads/
+/uploads/*
 .DS_Store
+TODO.txt
